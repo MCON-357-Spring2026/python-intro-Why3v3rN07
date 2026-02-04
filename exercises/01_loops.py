@@ -10,7 +10,7 @@ for i in range(1, 11):
     print(i)
 
 print("\neven numbers from 1 to 20:")
-for i in range(0, 21, 2):
+for i in range(2, 20, 2):
     print(i)
 
 print("\nsum of numbers from 1 to 100:")
